@@ -1,0 +1,16 @@
+/* Navbar */
+
+.navbar-nav a{
+  font-size: 18px;
+}
+
+.fa-star{
+ font-size: 40px;
+ align-content: center;
+ color: rgb(234, 241, 12);
+}
+.container{
+height: 100px;
+width: 600px;
+margin: auto;
+}
